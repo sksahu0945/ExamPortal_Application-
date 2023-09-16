@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=com.inn.cafe/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.inn.cafe.rest{UserRest.java[UserRest" modifiers="513" timestamp="1677750502489"/>
+    <typeInfo handle="=com.inn.cafe/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.inn.cafe.service{UserService.java[UserService" modifiers="513" timestamp="1677750502022"/>
+    <typeInfo handle="=com.inn.cafe/C:\/Users\/Sanjay Sahu\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/3.0.1\/spring-data-jpa-3.0.1.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/3.0.1=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1674396156919"/>
+</typeInfoHistroy>
