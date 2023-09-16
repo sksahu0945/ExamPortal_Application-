@@ -1,1 +1,1 @@
-# ExamPortal_Application-
+# This is Online Exam Portal for any student. which helps to get their goals on compitition based exams. this project based on Angular14, Git, Typescript, Maven, lambook, Springboot, Java, Pgsql, APIs, Microservices and CICD for faster deployment in K8s Infrastructure.
